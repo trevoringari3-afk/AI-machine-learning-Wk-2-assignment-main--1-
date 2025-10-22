@@ -73,7 +73,7 @@ Extending this project
 
 Contact
 -------
-Author: michaellolivery94-web
+Author: michaellolivery94-web 7 trevoringari3-afk
 
 Collaborative notes
 -------------------
